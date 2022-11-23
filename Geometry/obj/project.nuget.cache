@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ErUqHf7bpb8gb8f2HrhTz6I99K33DMAa4sVAGPn+u1mw8r2tOX671Gj3Rag7EgZVipU2kNBH8WFNKVTuO8RuOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicko\\Desktop\\Geometry\\Geometry\\Geometry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicko\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512",
+    "C:\\Users\\nicko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\nicko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nicko\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
